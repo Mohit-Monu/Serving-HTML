@@ -1,0 +1,27 @@
+.box {
+    border: red 2px solid;
+    width: 50%;
+    margin-left: 25%;
+    height: 900px;
+}
+
+label {
+    font-size: 40px;
+    margin: 20px;
+    padding: 20px;
+}
+
+input {
+    height: 30px;
+    font-size: 30px;
+    margin: 30px;
+    width: 50%;
+}
+button{
+    height: 40px;
+    width: 30%;
+    font-size: 25px;
+    margin: 30px;
+
+    
+}
